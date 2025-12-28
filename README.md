@@ -1,5 +1,3 @@
-<img width="839" height="211" alt="image" src="https://github.com/user-attachments/assets/7ec2686a-71ba-4446-ac6f-7666ac737e84" /># Django Python API
-
 This is a project to test Django with Python.
 
 ## Description
