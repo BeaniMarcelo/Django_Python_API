@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\views.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\views.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\urls.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\urls.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\Django_Python_API\\urls.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Django_Python_API\\urls.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\serializer.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\serializer.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\models.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\models.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\manage.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:manage.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\Django_Python_API\\settings.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Django_Python_API\\settings.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\Django_Python_API\\urls.py",
+              "RelativeDocumentMoniker": "Django_Python_API\\urls.py",
+              "ToolTip": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\Django_Python_API\\urls.py",
+              "RelativeToolTip": "Django_Python_API\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T20:47:49.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\urls.py",
+              "RelativeDocumentMoniker": "api\\urls.py",
+              "ToolTip": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\urls.py",
+              "RelativeToolTip": "api\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T20:45:03.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\views.py",
+              "RelativeDocumentMoniker": "api\\views.py",
+              "ToolTip": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\views.py",
+              "RelativeToolTip": "api\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T18:53:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "serializer.py",
+              "DocumentMoniker": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\serializer.py",
+              "RelativeDocumentMoniker": "api\\serializer.py",
+              "ToolTip": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\serializer.py",
+              "RelativeToolTip": "api\\serializer.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T16:15:19.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\models.py",
+              "RelativeDocumentMoniker": "api\\models.py",
+              "ToolTip": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\api\\models.py",
+              "RelativeToolTip": "api\\models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T13:29:03.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\Django_Python_API\\settings.py",
+              "RelativeDocumentMoniker": "Django_Python_API\\settings.py",
+              "ToolTip": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\Django_Python_API\\settings.py",
+              "RelativeToolTip": "Django_Python_API\\settings.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T13:00:59.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "manage.py",
+              "DocumentMoniker": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\manage.py",
+              "RelativeDocumentMoniker": "manage.py",
+              "ToolTip": "C:\\Users\\Marcelo Beani\\Desktop\\Django_Python_API\\Django_Python_API\\manage.py",
+              "RelativeToolTip": "manage.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-27T13:00:43.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
