@@ -45,3 +45,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Frontend (separate repository)
+frontend/
+
